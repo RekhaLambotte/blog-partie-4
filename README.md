@@ -1,5 +1,8 @@
 <h1>Blog-PHP-Gaming</h1>
 
+Partie 4 à faire en solo:
+
+
 Exercice final qui clôt la session des ateliers de développement pour les apprennants de l'IFAPME section developpement web.
 Nous réalisons un blog en php axés sur le gaming. + qu'un blog, nous posons finalement les bases d'un mini-cms qui permettra aux rédacteurs de ce site de pouvoir rédiger du contenu sans avoir aucune notions de code.
 
