@@ -10,9 +10,7 @@ if(isset($_SESSION["user"]["role"]) && $_SESSION["user"]["role"] == "admin"){
         $deleteType = htmlspecialchars($_GET["valueType"]);
         $intDeleteType = intval($deleteType);
         deleteTypeCategorie($intDeleteType);
-
     }
-
 }
 
 $listetypecategorie = getCategory();
@@ -61,7 +59,6 @@ $listetypecategorie = getCategory();
             </form>
 
         <?php
-
                 }
             }
         ?>

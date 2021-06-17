@@ -158,4 +158,6 @@ function updateImg($fichier){
 
     }
 
+    
+
 ?>  
